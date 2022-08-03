@@ -1,0 +1,40 @@
+Heading => The text written in large text size on the top of the page
+Tag used for heading : 
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+Note : The bigger the number, small is the size of text in heading tag
+
+Paragraph : To write a paragraph in article.
+<p></p>
+
+List : 
+1. OL(Ordered List) : Make a list of items in order (keep the record of serial no of items)
+Type : 1 (default), A, a, I, i
+start : to skip the items
+reversed : to reverse the list
+2. UL(Unordered List): Make a list of items but not in proper sequence(does not shows serial no but shows a bullet).
+Type : disk (default), circle, square
+2. LI(List Item) : The item inside the list
+
+Attribute : It is a special property which we provide to any tag to get differnt behavior form a tag.
+
+
+Elements : All the tags that we write inside body tag
+HTML Elements (Display Types) : 2 types
+    1. Block Elements : which occupies complete width of the screen E.g <h1>...<h6>, <p>, <ul>, <ol>, <li> etc
+    2. Inline Elements : which occupies only the width of the content inside it. E.g <span>, <a>
+
+Anchor (<a>) : Used to redirect the user on another page on internet/website with the help of href attribute.
+<a href="https://www.facebook.com/">Click Here to go to facebook</a>
+
+Meta : Used to write the information/data about the web page.
+Used for SEO (Search Engine Optimization)
+
+author : Divyansh
+description: article about environment day and a shopping list
+keywords: envrionment, article, shoppinglist
+viewport: width=device-width, initial-scale=1
