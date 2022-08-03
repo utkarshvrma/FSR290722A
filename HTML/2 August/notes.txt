@@ -1,0 +1,46 @@
+Web Development? => Process of developing a web page is called Web Development.
+Web Page => A page visible on a web browser over Internet
+
+Web dev technologies : 
+1. HTML (HyperText Markup Language) : It helps us in creating a basic structure (skeleton) of a page.
+2. CSS (Cascading Sttyle Sheet) : It is used for styling (beautification) purpose.
+3. JS (Java Script) : It is used to add functionalities (dynamic things).
+
+
+To build a home : 
+1. Bricks
+2. Cement
+
+
+Code Editor ? Code editor is a software which is used to write/type the code in a computer system.
+Notepad
+Notepad++
+----Visual Studio Code----
+Sublime Editor
+Atom
+etc...
+
+HTML 
+    HEAD
+    BODY
+Tags : Small parts which describes a web page.
+< > => Angle Brackets
+2 types of Tags : 
+Container Tag : Has opening as well as closing
+E.g <html></html> <head></head> <body></body>
+
+Empty Tags : Which has only opening but not closing
+E.g <br>
+
+File => 
+    2 Things : 
+        File name : A name to identify the contents of the file.
+        File extenstion : It is a property to identify the type of data present inside a file.
+    E.g: song.mp3 => Audio
+        movie.mp4 => Video
+        notes.txt => Text file
+        profilepicture.jpg => Image
+        myfirstwebpage.html => HTML
+Tag Eg:
+<html>
+</html>
