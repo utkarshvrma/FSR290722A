@@ -1,0 +1,24 @@
+Image : <img>
+Attribute : src
+src contains address/path of an image
+
+123, ABC Street, XYZ, (M.P), 457001
+
+Q. How do i change the size of an image on my web page?
+A. 2 diff attributes : width, height.
+
+
+Aspect Ratio : 9:16, 4:3
+9/16,4/3
+
+Width : 400px;
+Height: 300px;
+
+400/300 => 200/150 => 100/75 => ..... 4/3
+
+Anchor <a> : To create links/to redirect the user to a new page, a new item etc
+
+Attribute : 
+id : This attribute is used to give a unique identifier to the element
+
+Div (Divison) : It is an empty box which is used to wrap/group the items
