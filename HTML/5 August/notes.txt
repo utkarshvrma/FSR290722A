@@ -1,0 +1,13 @@
+Table? Collection of rows and columns
+<table>
+    1. Head : <thead>
+        Row : <tr>
+            Cell : <td>
+            Heading : <th>
+    2. Body : <tbody>
+        Row : <tr>
+            Cell : <td>
+
+Spans : To merge the cells(th or td)
+    colspan : To merge the columns
+    rowspan : To merge the rows
