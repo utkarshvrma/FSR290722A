@@ -1,0 +1,17 @@
+Box Model in CSS ?
+
+<div></div>
+<div>Hello this is my first css session</div>
+<div></div>
+
+1. Content : Things/stuff present inside the box.
+2. Padding : It is the space between the content and the border of the box.
+3. Border : The lines surrounding the area of the box.
+4. Margin : It lies outside the box, the space between the cureent and adjacent box
+
+
+Font ? The way/design our text looks like.
+
+How to change the size of text? font-size
+How to change the boldness of text? font-weight
+How to change the way the text looks? font-family
