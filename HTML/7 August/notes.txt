@@ -1,0 +1,1 @@
+Card => It is an area which contains multiple elements for a specific purpose.
