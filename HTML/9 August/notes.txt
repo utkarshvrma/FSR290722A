@@ -1,0 +1,42 @@
+HTML
+HTML v5
+With every version of HTML we got some new features
+New features in HTML v5 
+    1. Audio and Video Tags
+    2. Geolocation API
+    3. Drag and Drop API
+    4. Semantic tags
+    5. New input types
+    etc
+
+
+
+HTML v4 => <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Translation....">
+HTML v5 => <!DOCTYPE html>
+
+
+Semantic Tags ? These are the tags which have a meaningful names.
+
+main
+article
+section
+header
+footer
+nav
+aside
+etc
+
+SEO (Search Engine Optimization) : A process to bring your website on the top of a serach engine results./ Increase website rank
+
+Input ? A tag to capture user input values
+Reg Form : 
+First Name
+Last Name
+Password
+Date of Birth DOB
+Gender
+Email
+Phone no
+
+
+W3C => World Wide Web Consortium
