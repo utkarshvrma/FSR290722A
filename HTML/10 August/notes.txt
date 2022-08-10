@@ -1,0 +1,26 @@
+details and summary
+Accordion : Where we show the heading and hide the rest of the content part, when someone clicks on the heading we show/hide the content part
+
+Forms : <form></form>
+    1. Take user inputs in the Forms
+        Send the data to the server
+    2. Save the data in database
+
+Fields in Registration Form : 
+    Full Name
+    Email
+    Password
+    Confirm Password
+    DOB
+    Gender
+    I agree
+
+How to send data to the server from our HTML Form?
+There are 2 ways(method) we can send the data
+1. GET
+2. POST
+
+Where do we send the data?
+We use a URL where we send the data. (action)
+www.abc.com/registration-form
+www.xyz.com/new-user

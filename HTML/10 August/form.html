@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+    <head>
+        <title>Forms</title>
+    </head>
+    <body>
+        <h1>Register Here</h1>
+        <form action="www.mywebsite.com/registration-form" method="POST">
+            <input name="fullname" placeholder="Full Name" type="text"> <br>
+            <input name="email" placeholder="Email" type="email"> <br>
+            <textarea></textarea> <br>
+            <input name="password" type="password" placeholder="Password"> <br>
+            <input name="confirm_password" placeholder="Confirm Password" type="password"> <br>
+            
+            <label for="dob">DOB</label>
+            <input name="dob" id="dob" type="date"> <br>
+            
+            
+            <input value="m" name="gender" id="male" type="radio">
+            <label for="male">Male</label>
+
+            <input value="f" name="gender" id="female" type="radio">
+            <label for="female">Female</label> <br>
+
+            <input value="o" name="gender" id="others" type="radio">
+            <label for="others">Others</label> <br>
+
+
+            <input value="y" name="iagree" id="iagree" type="checkbox">
+            <label for="iagree">
+                I agree to the <a href="">Terms & Conditions</a>
+            </label>
+            <br>
+            <input type="submit">
+        </form>
+    </body>
+</html>
