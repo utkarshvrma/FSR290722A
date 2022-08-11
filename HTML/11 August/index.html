@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+    <head>
+        <title>Forms</title>
+    </head>
+    <body>
+        
+        <h1>Register Here</h1>
+        <!-- This is registration form -->
+        <form action="www.mywebsite.com/registration-form" method="GET">
+            <input readonly  maxlength="12" required name="fullname" placeholder="Full Name" type="text"> <br>
+            <input disabled required name="email" placeholder="Email" type="email"> <br>
+            <!-- <textarea></textarea> <br> -->
+            <input minlength="8" maxlength="10" required name="password" type="password" placeholder="Password"> <br>
+            <input required name="confirm_password" placeholder="Confirm Password" type="password"> <br>
+            
+            <label for="dob">DOB</label>
+            <input readonly required name="dob" id="dob" type="date"> <br>
+            
+            <input required value="m" name="gender" id="male" type="radio">
+            <label for="male">Male</label>
+
+            <input required value="f" name="gender" id="female" type="radio">
+            <label for="female">Female</label> <br>
+
+            <input required value="o" name="gender" id="others" type="radio">
+            <label for="others">Others</label> <br>
+
+            <input min="5" max="20" step="2" type="number" placeholder="Age"> <br>
+
+
+            <select required name="country">
+                <option value="">Select Country</option>
+                <option value="au">Australia</option>
+                <option value="in">India</option>
+                <option value="us">United States</option>
+                <option value="uk">United Kingdom</option>
+                <option value="ge">Spain</option>
+                <option value="ge">Russia</option>
+                <option value="ge">China</option>
+                <option value="ge">Nepal</option>
+                <option value="ge">Vatican City</option>
+                <option value="ge">Canada</option>
+                <option value="ge">Sri Lanka</option>
+                <option value="ge">Afghanistan</option>
+            </select>
+
+            <br>
+<!-- 
+            <input list="countries-list" type="text">
+            <datalist id="countries-list" name="country">
+                <option>--Select Country--</option>
+                <option>Australia</option>
+                <option>Afghanistan</option>
+                <option>Canada</option>
+                <option>China</option>
+                <option>India</option>
+                <option>United States</option>
+                <option>United Kingdom</option>
+                <option>Spain</option>
+                <option>Russia</option>
+                <option>Nepal</option>
+                <option>Vatican City</option>
+                <option>Sri Lanka</option>
+            </datalist> -->
+            <br>
+            <input required value="y" name="iagree" id="iagree" type="checkbox">
+            <label for="iagree">
+                I agree to the <a href="">Terms & Conditions</a>
+            </label>
+            <br>
+            <input type="submit">
+            <input type="reset">
+        </form>
+    </body>
+</html>

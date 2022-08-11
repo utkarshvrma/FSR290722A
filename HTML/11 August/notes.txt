@@ -1,0 +1,20 @@
+Forms - Part 2
+Comments : Used to write detils about the code
+
+Input Attributes : 
+
+    readonly : It does not allows user to type something in the field.
+    disabled : It does not allows user to click or type something in the field.
+    hidden : To hide the field
+    autofocus : To set the foucs on the field by default when the page loads/reloads.
+
+Form Validation : Process to check if the correct data is entered in the form or not.
+        required : To make a field as required in a form.
+        minlength : For text boxes sets minimum no of characters
+        maxlength : For text boxes sets maximum no of characters
+        min : For number boxes sets minimum no that can be entered in it.
+        max :  For number boxes sets maximum no that can be entered in it.
+
+<!-- YOUR COMMENTS -->
+Ctrl + / => Commenting a line
+Alt + Shift + Down arrow => To copy paste line in VS Code
