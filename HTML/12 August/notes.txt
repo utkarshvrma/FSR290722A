@@ -1,0 +1,27 @@
+opgroup : A tag used to group/categorise items inside a select tag (dropdown).
+We can use label attribute to give the name of the group/category.
+
+
+Multimedia? => Any audio visual.
+
+HTML 5 tags : 
+    Video : <video></video>
+    Audio : <audio></audio>
+Attributes : 
+    preload :
+        none : Nothing will be loaded related to the video when page loads
+        metadata : It will load the basic info about the video i.e duration, image/poster on page load.
+        auto : It will load the complete video on page load.
+
+In Older HTML Versions < v5
+    A plugin was required to play the media. 
+    FlashPlayer Pluging
+
+ifram : Tag used to load another/third party webpages or any web content in our web page.
+NOTE : IT HAS SECURITY ISSUES, AND SO MANY WEBSITES DOES NOT ALLOWS TO PUT THEIR CONTENT IN IFRAME E.G GOOGLE DOESN'T ALLWOS IT
+
+<embed></embed> : To load the files which are not supported by audio and video tag.
+
+
+SVG (Scalable Vector Graphic) : These icons/images are created with code AND NOT CAPTURED WITH CAMERA
+Icons : A logo to represent something
